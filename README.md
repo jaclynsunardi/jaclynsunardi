@@ -2,7 +2,7 @@
 
 I'm a second year Computing Science and Electronics Design student at Simon Fraser University.
 
-- Check out my [website] to learn more about me.
+- Check out my [website](https://jaclynsunardi.github.io/website/) to learn more about me.
 - Check out some of the [projects](https://www.github.com/jaclynsunardi/) I've been working on!
   
 
@@ -11,7 +11,7 @@ I'm a second year Computing Science and Electronics Design student at Simon Fras
 
 **Languages:** `C/C++` `Java` `Python` `JavaScript`
  
-**Frontend Development:** `React` `Svelte`
+**Libraries and Frameworks:** `React` `Svelte`
 
  
 ## ✨ Fun Facts 
