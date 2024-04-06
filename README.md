@@ -17,7 +17,7 @@ I'm a second year Computing Science and Electronics Design student at Simon Fras
 ## ✨ Fun Facts 
 
 - I have the biggest sweet tooth.
-- I enjoy folding origami, camping, and discovering hidden gems in retro video games.
+- I enjoy folding origami and camping.
 - I'm an escape room enthusiast.
 
 ## 📫 Contact
