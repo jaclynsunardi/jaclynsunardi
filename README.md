@@ -9,9 +9,11 @@ I'm a second year Computing Science and Electronics Design student at Simon Fras
 
 ## 📦 Toolbox
 
-**Languages:** `C/C++` `Java` `Python` `JavaScript` `HTML` `CSS`
+**Languages:** `C/C++` `Java` `Python` `JavaScript(Node.js)` `HTML` `CSS`
  
 **Libraries and Frameworks:** `React` `Svelte`
+
+**Technologies:** `MongoDB` `AWS (S3)`
 
  
 ## ✨ Fun Facts 
