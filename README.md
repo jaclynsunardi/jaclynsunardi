@@ -13,7 +13,7 @@ I'm a second year Computing Science and Electronics Design student at Simon Fras
  
 **Libraries and Frameworks:** `React` `Svelte`
 
-**Technologies:** `MongoDB` `AWS (S3)`
+**Technologies:** `MongoDB` `AWS(S3)`
 
  
 ## ✨ Fun Facts 
