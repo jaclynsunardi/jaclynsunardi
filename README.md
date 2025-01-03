@@ -1,6 +1,6 @@
 ### Hi, I'm Jaclyn Sunardi! <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRxOHE5dG9sOHBxcmxzY2ExOTBuMzh6M3g3czRncmp6MTFuNXJ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcbH1ajIgeymtLn4fP/giphy.gif" height = "25"/>
 
-I'm a second year Computing Science and Electronics Design student at Simon Fraser University.
+I'm a third year Computing Science and Electronics Design student at Simon Fraser University.
 
 - Check out my [website](https://jaclynsunardi.github.io/website/) to learn more about me.
 - Check out some of the [projects](https://www.github.com/jaclynsunardi/) I've been working on!
@@ -18,9 +18,10 @@ I'm a second year Computing Science and Electronics Design student at Simon Fras
  
 ## ✨ Fun Facts 
 
-- I have the biggest sweet tooth.
-- I enjoy folding origami and solving Rubik's Cubes.
-- I'm an escape room enthusiast.
+- I have the biggest sweet tooth and love trying out new desserts and cuisines.
+- Folding origami and solving Rubik's Cubes are my go-to for sparking creativity and tackling challenges.
+- I’m all about spending quality time with family and friends.
+- I enjoy taking on creative projects that push me to think outside the box and stay adaptable.
 
 ## 📫 Contact
 
