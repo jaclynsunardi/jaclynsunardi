@@ -1,6 +1,6 @@
 ### Hi, I'm Jaclyn Sunardi! <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRxOHE5dG9sOHBxcmxzY2ExOTBuMzh6M3g3czRncmp6MTFuNXJ3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcbH1ajIgeymtLn4fP/giphy.gif" height = "25"/>
 
-I'm a third year Computing Science and Electronics Design student at Simon Fraser University.
+I'm a fourth year Computing Science and Entrepreneur student at Simon Fraser University.
 
 - Check out my [website](https://jaclynsunardi.github.io/website/) to learn more about me.
 - Check out some of the [projects](https://www.github.com/jaclynsunardi/) I've been working on!
